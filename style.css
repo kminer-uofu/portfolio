@@ -11,7 +11,15 @@ h2{
 #main-bio {
     text-align: center;
 }
-img two {
+.two {
     width: auto;
     height: auto;
 }
+/* 
+@media only screen and (max-width: 600px) {
+    .two {
+        width: auto;
+        height: auto;
+        display: block;
+    }
+  } */
